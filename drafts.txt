@@ -7,3 +7,14 @@ even the effeminate swank of his riding clothes could hide
 
 could see a great pack of muscle shifting when his shoulder
 moved under his thin coat. It was
+
+Chapter 3
+
+	
+git config --global core.editor "code --wait"
+	
+git config --global core.editor "code --wait"
+	
+git config --global core.editor "code --wait"
+	
+git config --global core.editor "code --wait"
